@@ -20,6 +20,7 @@
     outline: none;
     background-color: rgb(195, 226, 153);
     padding: 10px 90px;
+    font-size: 14px;
 }
 input::placeholder{
     font-size: 18px;
@@ -50,4 +51,13 @@ button:hover{
 .parent--header h3{
     text-align: start;    
     margin: 10px 0px;
+}
+.list-heading{
+    font-size: 20px;
+    font-weight: 600;
+}
+.addedData{
+    text-align: start;
+    margin-left: 35px;
+    margin-top: 30px;
 }
