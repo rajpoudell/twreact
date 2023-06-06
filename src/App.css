@@ -6,3 +6,6 @@
   font-family: sans-serif;
   
 }
+body {
+  background: linear-gradient(to top right,rgb(127, 255, 212),rgba(68, 94, 207, 0.733));
+}
