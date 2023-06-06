@@ -1,0 +1,29 @@
+
+.main{
+    height: 80vh;
+    border-radius: 20px;
+    background-color: rgb(108, 180, 105);
+    text-align: center;
+    margin: 100px auto;
+    width: 60vh;
+    
+}
+.main h1{
+    padding-top: 30px;
+}
+.input{
+    width: 70%;
+    height: 5vh;
+    border-radius: 10px;
+    border: none;
+    margin-top: 20px ;
+    outline: none;
+    background-color: rgb(195, 226, 153);
+    padding: 10px;
+}
+input::placeholder{
+    font-size: 18px;
+    
+    color: black;
+    font-weight: 400;
+}
